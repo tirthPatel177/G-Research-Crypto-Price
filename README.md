@@ -37,3 +37,16 @@ For different algorithms, results are shown below in a graphical format. For det
 <img src = "https://user-images.githubusercontent.com/73438608/193528895-bac353ac-2e1a-4e1d-8bbc-a30df0a0510d.png" width = "500px"/>
 
 
+## References
+
+J. Fattah, L. Ezzine, Z. Aman, H. Moussami, and A.Lachhab, “Forecasting of demand using arima model” International Journal of Engineering Business Management, vol. 10, p. 184 797 901 880 867, Oct. 2018. DOI:10.1177/1847979018808673.
+
+Konradb, Ts-2: Linear vision, Mar. 2022. [Online]. Available: https://www.kaggle.com/code/konradb/ts-2-linearvision/notebook.
+
+S. Velankar, S. Valecha, and S. Maji, “Bitcoin price prediction using machine learning,” in 2018 20th International Conference on Advanced Communication Technology (ICACT), 2018, pp. 144–147. DOI: 10.23919/ICACT. 2018.8323676.
+
+J. Abraham, D. Higdon, J. Nelson, and J. Ibarra, Cryptocurrency price prediction using tweet volumes and sentiment analysis. [Online]. Available: https://scholar.smu.edu/datasciencereview/vol1/iss3/1.
+
+Iamleonie, To the moon [g-research crypto forecasting eda], Dec. 2021. [Online]. Available: https : / / www.kaggle.com/code/iamleonie/to- the-moon- g- research-crypto-forecasting-eda/notebook.
+
+G. P. Zhang, “Time series forecasting using a hybrid arima and neural network model,” Neurocomputing, vol. 50, pp. 159–175, 2003.
