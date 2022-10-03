@@ -7,7 +7,8 @@ Crypto currencies have been a major trading market with over 40 billion$ worth o
 For different algorithms, results are shown below in a graphical format. For detailed reading and analysis, please refer to the report [here](https://github.com/tirthPatel177/G-Research-Crypto-Price/blob/main/report/5_Pied_Pipers_Mid_Sem_Project_Report.pdf).
 
 ### EDA
-**Closing Price vs Time Period of Bitcoin and Ethereum**
+
+#### Closing Price vs Time Period of Bitcoin and Ethereum
 
 <img src = "https://user-images.githubusercontent.com/73438608/193521652-7b746a1e-2973-4610-a139-268387ef1cc6.png" width = "500px"/>
 <img src = "https://user-images.githubusercontent.com/73438608/193521428-fc2737cc-e334-43e1-a86b-55083ca42951.png" width = "500px"/>
@@ -15,7 +16,7 @@ For different algorithms, results are shown below in a graphical format. For det
 <br>
 </br>
 
-**Target vs Time Period of Bitcoin and Ethereum**
+#### Target vs Time Period of Bitcoin and Ethereum
 
 <img src = "https://user-images.githubusercontent.com/73438608/193522090-10c49fd6-ad2a-4654-891a-c1fa89560244.png" width = "500px"/>
 <img src = "https://user-images.githubusercontent.com/73438608/193522209-bebbf939-e138-4f4c-933e-cb560cf07a50.png" width = "500px"/>
@@ -23,10 +24,11 @@ For different algorithms, results are shown below in a graphical format. For det
 <br>
 </br>
 
-### **Confusion Matrix**
+#### Correlation Matrix
 <img src = "https://user-images.githubusercontent.com/73438608/193523525-7dea6fac-773a-484a-816e-84bfb37c2c01.png" width = "500px"/>
 
 
-### **Linear Regression**
+### Linear Regression
+
 
 
