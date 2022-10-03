@@ -29,6 +29,11 @@ For different algorithms, results are shown below in a graphical format. For det
 
 
 ### Linear Regression
+#### Target vs Time Period plot for Binance
+<img src = "https://user-images.githubusercontent.com/73438608/193527566-6db46038-0800-469a-b643-329a1775bee5.png" width = "500px"/>
 
+### ARIMA
+#### Target vs Time Period plot for Binance
+<img src = "https://user-images.githubusercontent.com/73438608/193528895-bac353ac-2e1a-4e1d-8bbc-a30df0a0510d.png" width = "500px"/>
 
 
